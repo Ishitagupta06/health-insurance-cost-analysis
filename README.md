@@ -9,9 +9,6 @@ Looking at what drives individual health insurance costs, using an interpretable
 - **Region has no statistically significant effect** on charges (Kruskal-Wallis p ≈ 0.20).
 - **6 of 10 model coefficients are statistically significant at p < 0.05** (age, smoker, bmi, children, and both engineered interaction features) — confirmed with `statsmodels.OLS`. Region and sex are not significant, consistent with the Kruskal-Wallis result above.
 
-```
-
-
 ## Tech Stack
 
 **Python** end-to-end: pandas and NumPy for cleaning and data manipulation, scikit-learn and statsmodels for modeling and inference, SciPy for hypothesis testing, matplotlib/seaborn for visualization.
