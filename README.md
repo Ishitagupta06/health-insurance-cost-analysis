@@ -1,4 +1,4 @@
-# Health Insurance Charges — Regression Analysis
+# Medical Insurance Charges — Regression Analysis
 
 Looking at what drives individual health insurance costs, using an interpretable OLS regression: formal hypothesis testing, an interaction term motivated by a pattern found in the data, and classical regression assumption checks.
 
